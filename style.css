@@ -98,10 +98,10 @@ p{
     position:relative;
 } 
 .home .home-banner-1{
-    background-image:url('/assets/images/img6.jpg');
+    background-image:url('assets/images/img6.jpg');
 }
 .home .home-banner-2{
-    background-image:url('/assets/images/img3.jpg');
+    background-image:url('assets/images/img3.jpg');
 }
 .home .home-banner .home-banner-text{
     position:absolute;
